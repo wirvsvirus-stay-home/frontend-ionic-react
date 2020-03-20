@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-vs-virus-02/",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
